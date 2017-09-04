@@ -1,0 +1,105 @@
+{
+  "firstName": "Silvio",
+  "lastName": "Ciarrocchi",
+  "title": "DÉVELOPPEUR WEB",
+  "specialization": "SPÉCIALISTE OPÉRATIONS PUBLICITAIRES",
+  "address": "1000 OTTAWA #1612, MONTREAL, QC",
+  "phone": "514.885.9910",
+  "email": "s.ciarro@gmail.com",
+  "linkedIn": "https://www.linkedin.com/in/silvio-ciarrocchi-133a6213/",
+  "age": "35 ans",
+  "bilingual": "Bilingue",
+  "attitude": "PASSIONNÉ DU WEB",
+  "searching": "À LA RECHERCHE D’UN POSTE DE CONSULTANT",
+  "introduction": "Professionnel accompli du web avec un esprit entrepreneurial et prêt à relever de nouveaux défis, je pourrai contribuer aussi bien au niveau stratégique qu'opérationnel. Je recherche un environnement de travail dynamique et diversifié où je pourrai m'épanouir.",
+
+  "experience": [
+    {
+      "date": "Février 2016 - Présent",
+      "position": "PREMIER ANALYSTE, REVENUS-STRAT./OPTI DE L'INVENT.",
+      "employer": "Radio-canada / Canadian Broadcasting Corporation"
+    },
+    {
+      "date": "2011 - 2016",
+      "position": "Développeur web",
+      "employer": "Le RÉSEAU DES SPORTS | BELL MÉDIA",
+      "awardTitle": "Nomination aux prix Inspiration",
+      "awardProject": "Réduire significativement les coûts de livraison des publicités sur le nouveau RDS.ca (2014)"
+    },
+    {
+      "date": "2010 - 2011",
+      "position": "COORDONNATEUR, CRÉATIVITÉ MÉDIA INTERACTIF",
+      "employer": "Le RÉSEAU DES SPORTS | BELL MÉDIA ",
+      "awardTitle": "Prix Média",
+      "awardProject": "Exécution spéciale sur la Zone Vidéo du RDS.ca pour CCM, agence Carat. (2011)"
+    },
+    {
+      "date": "2009 - 2010",
+      "position": "COORDONNATEUR, OPÉRATIONS PUBLICITAIRES",
+      "employer": "LE RÉSEAU DES SPORTS | CTVglobemedia"
+    }
+  ],
+
+  "education": [
+    {
+      "date": "2011 - Présent",
+      "school": "université mcgill",
+      "degree": "Certificat en Analyse et design de systèmes IT."
+    },
+    {
+      "date": "2007 - 2009",
+      "school": "ITI du Collège de Maisonneuve",
+      "degree": "AEC Design web et commerce électronique."
+    }
+  ],
+
+  "certifications": [
+    {
+      "type": "Scrum Master",
+      "detail": "Formation reçue en mai 2015 PMS I"
+    },
+    {
+      "type": "Advanced Polopoly Dev.",
+      "detail": "Formation reçue en mars 2012"
+    }
+  ],
+
+  "competencies": [
+    {
+      "title": "Développement"
+    },
+    {
+      "technologies": ["Javascript", "jQuery", "CSS3", "Node.js", "Sass", "Gulp"]
+    }
+  ],
+
+  "languages": [
+    {
+      "french": "Français",
+      "frenchDesc": "langue maternelle"
+    },
+    {
+      "english": "Anglais",
+      "englishDesc": "parlé et écrit"
+    },
+    {
+      "italian": "Italien",
+      "italianDesc": "parlé"
+    }
+  ],
+
+  "aptitudes": [
+    {
+      "leadership": "Leadership"
+    },
+    {
+      "organisation": "Organisation"
+    },
+    {
+      "speed": "Rapidité"
+    },
+    {
+      "growth": "Appretissage"
+    }
+  ]
+}
