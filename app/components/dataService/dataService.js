@@ -2,8 +2,10 @@
 
 let dataServiceComponent = angular.module('components.dataService', [])
 
-dataServiceComponent.controller('DataServiceController', ['$scope', '$http', function($scope, $http) {
+dataServiceComponent.controller('DataServiceController', ['$scope', '$http','$log', function($scope, $http, $log) {
+  var controller = this;
   $http.get('data/silvio.json').success(function(data){
-    $scope.data = data;
+    controller.silvioData = data;
+    $log.info(data);
   });
 }]);
