@@ -1,25 +1,22 @@
 /* app css stylesheet */
 
-.menu {
-  list-style: none;
-  border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
+.grid {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  grid-column-gap: 1em;
 }
 
-.menu:before {
-  content: "[";
+.grid > div, .nested-grid > div {
+  background: #eee;
+  padding: 1em;
 }
 
-.menu:after {
-  content: "]";
+.grid > div:nth-child(odd), .nested-grid > div:nth-child(odd) {
+  background: #ddd
 }
 
-.menu > li {
-  display: inline;
-}
-
-.menu > li + li:before {
-  content: "|";
-  padding-right: 0.3em;
+.nested-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1em;
 }
